@@ -19,3 +19,6 @@
 	sudo vim /usr/lib/x86_64-linux-gnu/qt-default/qtchooser/default.conf
 	在第一行加入: /usr/local/Trolltech//qt-x11-opensource-src-4.5.3/bin
 
+
+# 3.程序打包(发布):
+- http://c.biancheng.net/view/9432.html
